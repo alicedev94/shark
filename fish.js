@@ -5,6 +5,9 @@ const sum = (n, n1) => {
     return n + n1;
 }
 
+/**
+ * New function res
+ */
 const res = (n, n1) => {
     return n - n1;
 }
