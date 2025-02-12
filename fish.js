@@ -1,3 +1,6 @@
+/**
+ * New function sum
+ */
 const sum = (n, n1) => {
     return n + n1;
 }
